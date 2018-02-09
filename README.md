@@ -88,7 +88,7 @@ This class has been cross mapped to the CompTIA Linux+ by the Linux Professional
 
 [Curriculum - Labs & Assignments - Week 5](https://github.com/FOSSClass/linux-2461-class-modules/raw/master/CSCI2461-Sp2018-Week5-Curriculum.pdf)
 
-# Class Modules (Weekly Release)
+# Weekly Class Modules (Login to download)
 
 Each module is original work authored by by Matthew J. Harmon.
 
