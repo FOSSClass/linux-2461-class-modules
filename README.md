@@ -55,7 +55,7 @@ Each week there will be required readings to be completed before each class. Thi
   * Weekly Labs Submitted to GitHub Repo and then Upload repo.zip to D2L
   * Final Project
   * Midterm 
-  * Quzzes
+  * Quizzes
   * Readings, attendance, participation, D2L discussions, peer support. 
 
 
