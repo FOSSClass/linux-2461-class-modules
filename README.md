@@ -1,8 +1,4 @@
-...
-[build]: # (pandoc README.md -o ./CSCI2461-Sp2018-README.pdf --from markdown+multiline_tables --template eisvogel.tex --listings --toc)
-
-# Saint Paul College, Computer Science 2461-{70,71}, Computer Networking 3 - Linux
-
+# Saint Paul College, Computer Science 2461-{70,71}
 
 # Computer Networking 3 - Linux
 
