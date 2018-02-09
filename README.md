@@ -100,4 +100,4 @@ Week |Date  | Class Module |
 02   |Jan 17| [Week 2 Module](CSCI2461-Sp2018-Week2-Module.pdf), [Linux Command Line](http://www.linuxcommand.org/) and [Shell Scripting](https://www.shellscript.sh/index.html)
 03   |Jan 24| [Week 3 Module](CSCI2461-Sp2018-Week3-Module.pdf), [Shell Scripting](http://linuxcommand.org/lc3_writing_shell_scripts.php) & [Devices](http://www.lanana.org/docs/device-list/) 
 04   |Jan 31| [Week 4 Module](CSCI2461-Sp2018-Week4-Module.pdf), Disks, [Filesystems](http://www.pathname.com/fhs/), & [GitHub](https://try.github.com) Setup
-05   |Feb 07| [Week 5 Module](CSCI2461-Sp2018-Week5-Module.pdf), [Linux Kernel](http://linuxcommand.org/lc3_writing_shell_scripts.php), [Building a Bootable System](https://www.debian.org/releases/stretch/amd64/apds03.html.en)), [Linux Standard Base](https://wiki.linuxfoundation.org/lsb/start)
+05   |Feb 07| [Week 5 & 6 Module](CSCI2461-Sp2018-Week5-Module.pdf), [Linux Kernel](http://linuxcommand.org/lc3_writing_shell_scripts.php), [Building a Bootable System](https://www.debian.org/releases/stretch/amd64/apds03.html.en), [Linux Standard Base](https://wiki.linuxfoundation.org/lsb/start)
