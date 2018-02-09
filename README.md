@@ -17,7 +17,7 @@
   * [Class/2461-70 Team Discussion Forum](https://github.com/orgs/FOSSClass/teams/17-sp-2461-70)
 
 
-## **CSCI 2461 71 (001168) *Blended/Hybrid*
+## **CSCI 2461 71 (001168)** *Blended/Hybrid*
   * 01/10 - 05/09 W 4:00pm - 5:55pm
   * Blended/Hybrid, Main Campus 3290
   * [Class/2461-71 Team Discussion Forum](https://github.com/orgs/FOSSClass/teams/17-sp-2461-71)
