@@ -86,7 +86,7 @@ This class has been cross mapped to the CompTIA Linux+ by the Linux Professional
 
 # Curriculum (Updated as Labs/Homework Assigned)
 
-[Curriculum - Labs & Assignments - Week 5](CSCI2461-Sp2018-Week5-Curriculum.pdf)
+[Curriculum - Labs & Assignments - Week 5](https://github.com/FOSSClass/linux-2461-class-modules/raw/master/CSCI2461-Sp2018-Week5-Curriculum.pdf)
 
 # Class Modules (Weekly Release)
 
@@ -96,11 +96,11 @@ Each module is original work authored by by Matthew J. Harmon.
 
 Week |Date  | Class Module |
 |----|------| -----------------|
-01   |Jan 10| [Week 1 Module - Introduction, Overview & Preparation](CSCI2461-Sp2018-Week1-Module.pdf)
-02   |Jan 17| [Week 2 Module](CSCI2461-Sp2018-Week2-Module.pdf), [Linux Command Line](http://www.linuxcommand.org/) and [Shell Scripting](https://www.shellscript.sh/index.html)
-03   |Jan 24| [Week 3 Module](CSCI2461-Sp2018-Week3-Module.pdf), [Shell Scripting](http://linuxcommand.org/lc3_writing_shell_scripts.php) & [Devices](http://www.lanana.org/docs/device-list/) 
-04   |Jan 31| [Week 4 Module](CSCI2461-Sp2018-Week4-Module.pdf), Disks, [Filesystems](http://www.pathname.com/fhs/), & [GitHub](https://try.github.com) Setup
-05   |Feb 07| [Week 5 & 6 Module](CSCI2461-Sp2018-Week5-Module.pdf), [Linux Kernel](http://linuxcommand.org/lc3_writing_shell_scripts.php), [Building a Bootable System](https://www.debian.org/releases/stretch/amd64/apds03.html.en), [Linux Standard Base](https://wiki.linuxfoundation.org/lsb/start)
+01   |Jan 10| [Week 1 Module - Introduction, Overview & Preparation](https://github.com/FOSSClass/linux-2461-class-modules/raw/master/CSCI2461-Sp2018-Week1-Module.pdf)
+02   |Jan 17| [Week 2 Module](https://github.com/FOSSClass/linux-2461-class-modules/raw/master/CSCI2461-Sp2018-Week2-Module.pdf), [Linux Command Line](http://www.linuxcommand.org/) and [Shell Scripting](https://www.shellscript.sh/index.html)
+03   |Jan 24| [Week 3 Module](https://github.com/FOSSClass/linux-2461-class-modules/raw/master/CSCI2461-Sp2018-Week3-Module.pdf), [Shell Scripting](http://linuxcommand.org/lc3_writing_shell_scripts.php) & [Devices](http://www.lanana.org/docs/device-list/) 
+04   |Jan 31| [Week 4 Module](https://github.com/FOSSClass/linux-2461-class-modules/raw/master/CSCI2461-Sp2018-Week4-Module.pdf), Disks, [Filesystems](http://www.pathname.com/fhs/), & [GitHub](https://try.github.com) Setup
+05   |Feb 07| [Week 5 & 6 Module](https://github.com/FOSSClass/linux-2461-class-modules/raw/master/CSCI2461-Sp2018-Week5-Module.pdf), [Linux Kernel](http://linuxcommand.org/lc3_writing_shell_scripts.php), [Building a Bootable System](https://www.debian.org/releases/stretch/amd64/apds03.html.en), [Linux Standard Base](https://wiki.linuxfoundation.org/lsb/start)
 06   |Feb 14| No Class - It's Valentines Day! <3 Submit any past-due items before Feb 13.
 
 
