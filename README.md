@@ -1,17 +1,3 @@
----
-title: Computer Science 2461 - Networking 3 - Linux, Spring 2018 README.md
-author: Matthew J. Harmon
-date: February 9th, 2018
-abstract: Class Modules (Slides & Labs) for Spring 2018 CSCI 2461-{70,71}
-geometry: margin=0.75in
-abstract: CSCI 2461 Curriculum for Spring 2018
-colorlinks: true
-titlepage: false
-mainfont: Raleway-v4020-Regular.otf
-mainfontoptions: BoldFont=Raleway-v4020-Bold.otf
-mainfontoptions: ItalicFont=Raleway-v4020-RegularItalic.otf
-mainfontoptions: BoldItalicFont=Raleway-v4020-BoldItalic.otf
----
 ...
 [build]: # (pandoc README.md -o ./CSCI2461-Sp2018-README.pdf --from markdown+multiline_tables --template eisvogel.tex --listings --toc)
 
@@ -106,6 +92,11 @@ This class has been cross mapped to the CompTIA Linux+ by the Linux Professional
 [Curriculum - Labs & Assignments - Week 5](CSCI2461-Sp2018-Week5-Curriculum.pdf)
 
 # Class Modules (Weekly Release)
+
+Each module is original work authored by by Matthew J. Harmon and this work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
 Week |Date  | Class Module |
 |----|------| -----------------|
 01   |Jan 10| [Week 1 Module - Introduction, Overview & Preparation](CSCI2461-Sp2018-Week1-Module.pdf)
