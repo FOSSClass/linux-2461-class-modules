@@ -12,14 +12,14 @@
 ## Class Time and Location
 
   * CSCI 2461 70 (000684) 4 hour block
-  01/10 - 05/09 W 6:00pm - 9:55pm
-  Main Campus 3290
-  [Class/2461-70 Team Discussion Forum](https://github.com/orgs/FOSSClass/teams/17-sp-2461-70)
+  * 01/10 - 05/09 W 6:00pm - 9:55pm
+  * Main Campus 3290
+  * [Class/2461-70 Team Discussion Forum](https://github.com/orgs/FOSSClass/teams/17-sp-2461-70)
 
   * CSCI 2461 71 (001168) Blended/Hybrid
-  01/10 - 05/09 W 4:00pm - 5:55pm
-  Blended/Hybrid, Main Campus 3290
-  [Class/2461-71 Team Discussion Forum](https://github.com/orgs/FOSSClass/teams/17-sp-2461-71)
+  * 01/10 - 05/09 W 4:00pm - 5:55pm
+  * Blended/Hybrid, Main Campus 3290
+  * [Class/2461-71 Team Discussion Forum](https://github.com/orgs/FOSSClass/teams/17-sp-2461-71)
 
 ## Prerequisites 
 
