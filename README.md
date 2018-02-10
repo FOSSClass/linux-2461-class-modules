@@ -9,6 +9,11 @@
   * Submit general class questions to the ~~D2L discussion~~ GitHub Team forum for that team
   * Emergencies or private matters, email or see me in person.
 
+## Previous Semester Classes (2017)
+
+  * [CSCI 2461-70 Linux](https://f17.csci2461.com/)
+  * [CSCI 2482-40 Security Incident Handling, Response & Disaster Recovery](https://f17.csci2482.com/)
+
 # Class Time and Location
 
 ## **CSCI 2461 70 (000684)** *4 hour block*
