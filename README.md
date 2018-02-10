@@ -107,6 +107,5 @@ Week |Date  | Class Module |
 04   |Jan 31| [Week 4 Module](https://github.com/FOSSClass/linux-2461-class-modules/raw/master/CSCI2461-Sp2018-Week4-Module.pdf), Disks, [Filesystems](http://www.pathname.com/fhs/), & [GitHub](https://try.github.com) Setup
 05   |Feb 07| [Week 5 & 6 Module](https://github.com/FOSSClass/linux-2461-class-modules/raw/master/CSCI2461-Sp2018-Week5-Module.pdf), [Linux Kernel](https://www.kernel.org/doc/html/latest/), [Building a Bootable System](https://www.debian.org/releases/stretch/amd64/apds03.html.en), [Linux Standard Base](https://wiki.linuxfoundation.org/lsb/start)
 06   |Feb 14| No Class - It's Valentines Day! <3 :heart: Submit any past-due items before Feb 13.
-
 07   |Feb 21| Week 7 Module Pending, [An Industry Guide to Becoming a Software Engineer](https://tuftsdev.github.io/WebProgramming/notes/blangenberg.pdf) by Bill Langenberg via Ming Chow at Tufts
 
