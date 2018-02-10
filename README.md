@@ -27,9 +27,9 @@
   * Blended/Hybrid, Main Campus 3290
   * [Class/2461-71 Team Discussion Forum](https://github.com/orgs/FOSSClass/teams/17-sp-2461-71)
 
-## Prerequisites 
+## Prerequisites
 
-Saint Paul College admission. 
+Saint Paul College admission.
 
 
 ## Textbook
@@ -45,23 +45,23 @@ Saint Paul College admission.
   * A computer with at least 40 GB of hard disk space free and 4 GB of RAM
   * A modern web browser (such as Firefox, Google Chrome, Chromium) with features such as NoScript and AdBlock disabled
   * A virtualization platform such as VirtualBox or VMware
-  * Virtual machines created for this class. 
-  * A high speed USB storage drive only for use in this class. 
+  * Virtual machines created for this class.
+  * A high speed USB storage drive only for use in this class.
 
 
 ## Required Readings
 
-Each week there will be required readings to be completed before each class. This is in addition to the class labs. 
+Each week there will be required readings to be completed before each class. This is in addition to the class labs.
 
 
-## Assessment 
+## Assessment
 
   * ~~Labs Submit on D2L~~
   * Weekly Labs Submitted to GitHub Repo and then Upload repo.zip to D2L
   * Final Project
-  * Midterm 
+  * Midterm
   * Quizzes
-  * Readings, attendance, participation, D2L discussions, peer support. 
+  * Readings, attendance, participation, D2L/GitHub discussions, in-class peer support and opened "issues".
 
 
 ## Syllabus
@@ -87,7 +87,7 @@ Each week there will be required readings to be completed before each class. Thi
 
 ## Class Mapping
 
-This class has been cross mapped to the CompTIA Linux+ by the Linux Professional Institute's Certification. 
+This class has been cross mapped to the CompTIA Linux+ by the Linux Professional Institute's Certification.
 
 # Curriculum (Updated as Labs/Homework Assigned)
 
@@ -103,9 +103,10 @@ Week |Date  | Class Module |
 |----|------| -----------------|
 01   |Jan 10| [Week 1 Module - Introduction, Overview & Preparation](https://github.com/FOSSClass/linux-2461-class-modules/raw/master/CSCI2461-Sp2018-Week1-Module.pdf)
 02   |Jan 17| [Week 2 Module](https://github.com/FOSSClass/linux-2461-class-modules/raw/master/CSCI2461-Sp2018-Week2-Module.pdf), [Linux Command Line](http://www.linuxcommand.org/) and [Shell Scripting](https://www.shellscript.sh/index.html)
-03   |Jan 24| [Week 3 Module](https://github.com/FOSSClass/linux-2461-class-modules/raw/master/CSCI2461-Sp2018-Week3-Module.pdf), [Shell Scripting](http://linuxcommand.org/lc3_writing_shell_scripts.php) & [Devices](http://www.lanana.org/docs/device-list/) 
+03   |Jan 24| [Week 3 Module](https://github.com/FOSSClass/linux-2461-class-modules/raw/master/CSCI2461-Sp2018-Week3-Module.pdf), [Shell Scripting](http://linuxcommand.org/lc3_writing_shell_scripts.php) & [Devices](http://www.lanana.org/docs/device-list/)
 04   |Jan 31| [Week 4 Module](https://github.com/FOSSClass/linux-2461-class-modules/raw/master/CSCI2461-Sp2018-Week4-Module.pdf), Disks, [Filesystems](http://www.pathname.com/fhs/), & [GitHub](https://try.github.com) Setup
-05   |Feb 07| [Week 5 & 6 Module](https://github.com/FOSSClass/linux-2461-class-modules/raw/master/CSCI2461-Sp2018-Week5-Module.pdf), [Linux Kernel](http://linuxcommand.org/lc3_writing_shell_scripts.php), [Building a Bootable System](https://www.debian.org/releases/stretch/amd64/apds03.html.en), [Linux Standard Base](https://wiki.linuxfoundation.org/lsb/start)
+05   |Feb 07| [Week 5 & 6 Module](https://github.com/FOSSClass/linux-2461-class-modules/raw/master/CSCI2461-Sp2018-Week5-Module.pdf), [Linux Kernel](https://www.kernel.org/doc/html/latest/), [Building a Bootable System](https://www.debian.org/releases/stretch/amd64/apds03.html.en), [Linux Standard Base](https://wiki.linuxfoundation.org/lsb/start)
 06   |Feb 14| No Class - It's Valentines Day! <3 :heart: Submit any past-due items before Feb 13.
 
+07   |Feb 21| Week 7 Module Pending, [An Industry Guide to Becoming a Software Engineer](https://tuftsdev.github.io/WebProgramming/notes/blangenberg.pdf) by Bill Langenberg via Ming Chow at Tufts
 
