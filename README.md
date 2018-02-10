@@ -106,6 +106,6 @@ Week |Date  | Class Module |
 03   |Jan 24| [Week 3 Module](https://github.com/FOSSClass/linux-2461-class-modules/raw/master/CSCI2461-Sp2018-Week3-Module.pdf), [Shell Scripting](http://linuxcommand.org/lc3_writing_shell_scripts.php) & [Devices](http://www.lanana.org/docs/device-list/) 
 04   |Jan 31| [Week 4 Module](https://github.com/FOSSClass/linux-2461-class-modules/raw/master/CSCI2461-Sp2018-Week4-Module.pdf), Disks, [Filesystems](http://www.pathname.com/fhs/), & [GitHub](https://try.github.com) Setup
 05   |Feb 07| [Week 5 & 6 Module](https://github.com/FOSSClass/linux-2461-class-modules/raw/master/CSCI2461-Sp2018-Week5-Module.pdf), [Linux Kernel](http://linuxcommand.org/lc3_writing_shell_scripts.php), [Building a Bootable System](https://www.debian.org/releases/stretch/amd64/apds03.html.en), [Linux Standard Base](https://wiki.linuxfoundation.org/lsb/start)
-06   |Feb 14| No Class - It's Valentines Day! <3 Submit any past-due items before Feb 13.
+06   |Feb 14| No Class - It's Valentines Day! <3 :heart: Submit any past-due items before Feb 13.
 
 
